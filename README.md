@@ -16,7 +16,7 @@ Repository ini berisi eksperimen dan preprocessing untuk Proyek Akhir kelas Memb
 
 ## Kriteria Submission
 ✅ **Kriteria 1**: Melakukan Eksperimen terhadap Dataset Pelatihan  
-🎯 **Target**: Skilled (3 pts)  
+ **Target**: Skilled (3 pts)  
 - Manual experimentation di notebook [✔]
 - Data loading [✔]
 - EDA (Exploratory Data Analysis) [✔]
